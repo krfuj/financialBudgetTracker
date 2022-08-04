@@ -84,3 +84,8 @@ h1{
 .summary{
     text-align: right;
 }
+
+.new-entry{
+    padding: 8PX;
+    border-radius: 2PX;
+}
